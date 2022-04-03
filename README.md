@@ -11,6 +11,7 @@ Join this adventure to hone your survival, trading and production skills!
 — Sell items to customers: they need all these Baseball Bats, Flashlights and Cleavers to fend off zombies that are rather annoying in their persistence to eat all the brains
 
 first project
+https://www.loom.com/share/a8e19f5b46824a71ba5091e3bb84558e
 ![zomebie_Moment](https://user-images.githubusercontent.com/89033750/161433866-3fdbe201-9140-4f51-8428-6fed9c38164a.jpg)
 ![zomebie_Moment1](https://user-images.githubusercontent.com/89033750/161433879-1a4b16fa-845f-43c6-99c8-2bf0da437190.jpg)
 
